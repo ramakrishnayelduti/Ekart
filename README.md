@@ -163,5 +163,7 @@ In field **JDBC URL** put
 jdbc:h2:mem:shopping_cart_db
 ```
 
+test1
+
 In `/src/main/resources/application.properties` file it is possible to change both
 web interface url path, as well as the datasource url.
